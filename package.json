@@ -80,7 +80,7 @@
     "minimatch": "^3.0.4",
     "mkdirp": "^0.5.5",
     "mongodb": "^3.6.6",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.2.10",
     "nodemailer": "^6.6.1",
     "nunjucks": "^3.2.1",
     "oembetter": "^1.0.1",
